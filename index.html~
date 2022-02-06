@@ -1,0 +1,33 @@
+<html>
+	<head>
+	
+		<link rel="stylesheet" href="main.css"  />
+	</head>
+	<body>
+
+		<div class="card">
+		  <div class="card__inner" >
+			<div class="card__face card__face--front" >
+				<h2>Card Front</h2>
+			</div>
+			<div class="card__face card__face--back">
+				<div class="card__content" >
+					<div class="card__header" >
+						<img src="pp.jpg" alt="myface" class="pp" />
+						<h2>Tyler Potts</h2>
+					</div>
+					<div class="card__body">
+					</div>
+
+						Lorem Ipsum
+					</div>
+			
+			       </div>
+		       </div>
+		  </div>
+		</div>
+
+		<script src="main.js"></script>
+	</body>
+</html>
+
